@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1912
+
+This is a syntax file for input files used by "Atlas" or "Athena", which are semiconductor device and process modeling tools developed by Silvaco/Simucad.   The default extension for "Atlas" and "Athena" input files is .in
